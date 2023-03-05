@@ -22,7 +22,7 @@ var ball = {
 }
 
 function setup(){
-  var canvas =  createCanvas(1240,336);
+  var canvas =  createCanvas(24,36);
   video = createCapture(VIDEO);
   video.size(800, 400);
   video.parent('');
